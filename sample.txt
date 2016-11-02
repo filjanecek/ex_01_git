@@ -1,4 +1,2 @@
-prvy
-druhy
-treti
-stvrty
+iny
+dalsi
